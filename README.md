@@ -1,4 +1,4 @@
-# Portfólio de Projetos - [Seu Nome]
+# 👤 Portfólio
 
 Este é um projeto de portfólio desenvolvido com **React** e **Vite**, com o objetivo de apresentar meus principais trabalhos e experiências como desenvolvedor(a). A aplicação é otimizada para performance, possui Hot Module Replacement (HMR) e segue boas práticas com ESLint.
 
@@ -43,7 +43,9 @@ npm run dev
 
 4. **Abra a aplicação no navegador:**
 
-Acesse http://localhost:5173
+```bash
+http://localhost:5173
+```
 
 O Vite iniciará o servidor com recarregamento automático (HMR), facilitando o desenvolvimento.
 
