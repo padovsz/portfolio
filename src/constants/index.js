@@ -83,38 +83,28 @@ export const myProjects = [
   },
   {
     id: 3,
-    title: 'Blazor Web App',
+    title: 'Solar System Simulator',
     description:
-      'A modern, interactive web application built with Blazor WebAssembly and .NET Core.',
+      'An interactive 3D Solar System Simulator built using C# and modern graphics libraries.',
     subDescription: [
-      'Developed a fully interactive Single Page Application (SPA) using Blazor WebAssembly.',
-      'Implemented API interactions using .NET Core for a robust backend.',
-      'Designed responsive UI components with Tailwind CSS for an enhanced UX.',
-      'Integrated SQLite for efficient client-side database storage.',
+      'Simulated real-time planetary motion based on orbital mechanics using C#.',
+      'Implemented zoom and rotation controls for immersive user interaction.',
+      'Optimized performance for smooth rendering and responsive input handling.',
+      'Added sound effects to enhance the immersive experience of the simulation.',
     ],
-    href: '',
+    href: 'https://github.com/padovsz/solar_system_simulator',
     logo: '',
-    image: '/assets/projects/blazor-app.jpg',
+    image: '/assets/projects/solar-system-simulator.jpeg',
     tags: [
       {
         id: 1,
-        name: 'Blazor',
-        path: '/assets/logos/blazor.svg',
+        name: 'Unity',
+        path: '/assets/logos/unity.svg',
       },
       {
         id: 2,
-        name: '.NET Core',
-        path: '/assets/logos/dotnetcore.svg',
-      },
-      {
-        id: 3,
-        name: 'SQLite',
-        path: '/assets/logos/sqlite.svg',
-      },
-      {
-        id: 4,
-        name: 'TailwindCSS',
-        path: '/assets/logos/tailwindcss.svg',
+        name: 'C#',
+        path: '/assets/logos/csharp.svg',
       },
     ],
   },
@@ -123,7 +113,7 @@ export const myProjects = [
 export const mySocials = [
   {
     name: 'WhatsApp',
-    href: '',
+    href: 'https://wa.me/5519971247313',
     icon: '/assets/socials/whatsApp.svg',
   },
   {
