@@ -50,4 +50,4 @@ http://localhost:5173
 O Vite iniciará o servidor com recarregamento automático (HMR), facilitando o desenvolvimento.
 
 ---
-Feito com ❤️ por Maria Eduarda Padovan
+Feito com ❤️ por Maria Eduarda Padovan inpirado por [Ali Sanati](https://github.com/Ali-Sanati/Portfolio)
